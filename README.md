@@ -110,14 +110,10 @@ The complete, formatted incident report — covering executive summary, timeline
 
 | Description | File |
 |---|---|
-| Individual failed logon alert (Rule 60122) |<img width="1908" height="938" alt="image" src="https://github.com/user-attachments/assets/c3809a2a-3941-4e9c-9894-035029daeec0" />
- |
-| Escalated correlation alert (Rule 60204) | <img width="1916" height="960" alt="Screenshot 2026-07-30 164030" src="https://github.com/user-attachments/assets/43bd03cd-61dc-4e42-8d0b-4dcdf2c14b62" />
- |
-| Wazuh Discover view — escalation sequence |<img width="1889" height="482" alt="Screenshot 2026-07-30 164800" src="https://github.com/user-attachments/assets/2c7a5547-eac6-499a-807d-71ac1fab9aff" />
-  |
-| Raw JSON of correlation alert | <img width="826" height="752" alt="image" src="https://github.com/user-attachments/assets/fa819383-6075-4b96-9a0d-de8ded0b28de" />
- |
+| Individual failed logon alert (Rule 60122) |<img width="1908" height="938" alt="image" src="https://github.com/user-attachments/assets/c3809a2a-3941-4e9c-9894-035029daeec0" /> |
+| Escalated correlation alert (Rule 60204) | <img width="1916" height="960" alt="Screenshot 2026-07-30 164030" src="https://github.com/user-attachments/assets/43bd03cd-61dc-4e42-8d0b-4dcdf2c14b62" /> |
+| Wazuh Discover view — escalation sequence |<img width="1889" height="482" alt="Screenshot 2026-07-30 164800" src="https://github.com/user-attachments/assets/2c7a5547-eac6-499a-807d-71ac1fab9aff" /> |
+| Raw JSON of correlation alert | <img width="826" height="752" alt="image" src="https://github.com/user-attachments/assets/fa819383-6075-4b96-9a0d-de8ded0b28de" /> |
 
 
 ## 🛠️ Skills Demonstrated
