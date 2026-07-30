@@ -101,7 +101,7 @@ This is the core detection engineering concept the project demonstrates: **indiv
 
 The complete, formatted incident report — covering executive summary, timeline, affected user/host, detection details, impact assessment, and remediation recommendations — is available here:
 
-📎 [`SOC_Incident_Report_BruteForce.pdf`](SOC_Incident_Report_BruteForce.pdf) *(view in-browser)*  
+📎 [`SOC_Incident_Report_BruteForce.pdf`](SOC_Incident_Report_BruteForce1.pdf) *(view in-browser)*  
 
 
 ---
